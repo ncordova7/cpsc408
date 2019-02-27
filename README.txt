@@ -2,5 +2,5 @@ Assignment 2
 Nic Cordova
 2302109
 
-Developing an Application/Database.
+Developing an Application/Database using SQLite3.
 
